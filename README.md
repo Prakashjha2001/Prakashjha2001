@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning ****Node.js, Express.js, MongoDB****
 
-- 👨‍💻 I’m currently working on [**React / React Native / Next.js**](**React / React Native / Next.js**)
+- 👨‍💻 I’m currently working on **React / React Native / Next.js**
 
 - 💬 Ask me about ****React Native / React****
 
