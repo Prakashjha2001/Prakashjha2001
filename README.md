@@ -1,3 +1,16 @@
+### 💡 Most Used Skills
+
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=000)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
 ### 👋 Hi there, I'm Prakash Mohan Jha (@prakashjha2001)
 
 ---
@@ -40,7 +53,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-
+---
 
 ### 📊 GitHub Stats
 
@@ -49,6 +62,35 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prakashjha2001&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prakashjha2001&theme=radical)
+
+---
+
+### 🏆 Achievements
+
+- **Final Year Project**: Developed an **LPG Gas Leakage Detector** using **Arduino Uno** (Embedded Systems).
+- **Internship**: Worked as an **Embedded Firmware Intern** on various **IoT Projects**.
+- **Hackathons**: Participated in multiple coding and tech hackathons, securing top positions.
+- **Certifications**: Completed courses in **React.js**, **Node.js**, and **Firebase** from top platforms like **Udemy** and **Coursera**.
+
+---
+
+### 🚀 Projects
+
+#### **LPG Gas Leakage Detector**
+- **Technology**: **Arduino Uno**, **MQ-2 Gas Sensor**
+- **Description**: A device designed to detect LPG gas leaks and alert the user via a buzzer and an LED.
+
+#### **E-Commerce App**
+- **Technology**: **React.js**, **Firebase**, **Tailwind CSS**
+- **Description**: A simple e-commerce application where users can browse products, add them to the cart, and proceed to checkout.
+
+#### **Weather App**
+- **Technology**: **React Native**, **OpenWeatherMap API**
+- **Description**: A mobile app that displays real-time weather information based on the user's location.
+
+#### **Task Manager**
+- **Technology**: **Next.js**, **MongoDB**, **Node.js**
+- **Description**: A task management tool that allows users to create, update, and delete tasks. The app stores data in MongoDB.
 
 ---
 
